@@ -102,7 +102,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla01.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -111,7 +111,7 @@ const projectsData = [
     name: "Mehrfamilienhaus",
     image: "Assets/Mehrfamilienhaus01.jpg",
     year: "2026",
-    area: "996 m²",
+    area: "40-80 m²",
     location: "Niendorf, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -120,7 +120,7 @@ const projectsData = [
     name: "Doppelhaus",
     image: "Assets/Doppelhaus01.jpg",
     year: "2025",
-    area: "300 m²",
+    area: "110 m²",
     location: "Poppenbüttel, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -129,7 +129,7 @@ const projectsData = [
     name: "Einzelhaus",
     image: "Assets/Einzelhaus01.jpg",
     year: "2025",
-    area: "400 m²",
+    area: "130 m²",
     location: "Poppenbüttel, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -138,7 +138,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla02.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -147,7 +147,7 @@ const projectsData = [
     name: "Mehrfamilienhaus",
     image: "Assets/Mehrfamilienhaus02.jpg",
     year: "2026",
-    area: "996 m²",
+    area: "40-80 m²",
     location: "Niendorf, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -156,7 +156,7 @@ const projectsData = [
     name: "Mehrfamilienhaus",
     image: "Assets/Mehrfamilienhaus03.jpg",
     year: "2026",
-    area: "996 m²",
+    area: "40-80 m²",
     location: "Niendorf, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -165,7 +165,7 @@ const projectsData = [
     name: "Einzelhaus",
     image: "Assets/Einzelhaus02.jpg",
     year: "2025",
-    area: "400 m²",
+    area: "130 m²",
     location: "Poppenbüttel, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -174,7 +174,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla03.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -183,7 +183,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla04.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -192,7 +192,7 @@ const projectsData = [
     name: "Mehrfamilienhaus",
     image: "Assets/Mehrfamilienhaus04.jpg",
     year: "2026",
-    area: "996 m²",
+    area: "40-80 m²",
     location: "Niendorf, Hamburg, Deutschland",
     features: ["Zeitloses Design", "Moderne Architektur", "Solarenergie"]
   },
@@ -219,7 +219,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla05.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -237,7 +237,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla06.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -246,7 +246,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla07.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -255,7 +255,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla08.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -264,7 +264,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla09.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -273,7 +273,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla10.jpg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   },
@@ -282,7 +282,7 @@ const projectsData = [
     name: "Luxusvilla",
     image: "Assets/Luxusvilla11.jpeg",
     year: "2025",
-    area: "1000 m²",
+    area: "391 m²",
     location: "Sasel, Hamburg, Deutschland",
     features: ["Geborgenheit", "Minimalistisch", "Energieeffizient", "Solarenergie"]
   }
@@ -372,8 +372,8 @@ function formatProjectDetails(project) {
     .join("");
 
   return `
-    <div class="detail-row"><span class="detail-label">Jahr:</span><span class="detail-value">${project.year}</span></div>
-    <div class="detail-row"><span class="detail-label">Fläche:</span><span class="detail-value">${project.area}</span></div>
+    <div class="detail-row"><span class="detail-label">Baujahr:</span><span class="detail-value">${project.year}</span></div>
+    <div class="detail-row"><span class="detail-label">Wohnfläche:</span><span class="detail-value">${project.area}</span></div>
     <div class="detail-row"><span class="detail-label">Standort:</span><span class="detail-value">${project.location}</span></div>
     <div class="detail-row features-row"><div class="features-list">${features}</div></div>
   `;
